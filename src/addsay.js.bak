@@ -1,0 +1,10 @@
+const addsay = () => { 
+	return `
+	
+	*ADD Message*
+	
+	
+
+Thanks !`
+}
+exports.addsay = addsay

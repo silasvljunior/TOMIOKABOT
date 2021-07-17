@@ -1,0 +1,15 @@
+const cekvip = () => { 
+	return `           
+──────────────────
+*Nome do bot* :  TOMIOKA BOT
+──────────────────
+        『 *𝗨𝗦𝗨𝗔𝗥𝗜𝗢 𝗩𝗜𝗣* 』
+──────────────────
+• *Status*    : *ATIVO*
+────────────────── 
+*Status Bot:* *Online*
+──────────────────
+
+*VOCE É UM MEMBRO PREMIUM*`
+}
+exports.cekvip = cekvip
