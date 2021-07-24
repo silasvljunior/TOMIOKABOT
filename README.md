@@ -23,3 +23,6 @@ https://f-droid.org/packages/com.termux/
 * npm start
 # para doar para o criador= +55 (44) 9 9822-0867 [número]
 numero do criador= https://wa.me/5544998220867
+# CRÉDITOS 
+* MHANKARBAR (BASE)
+* BAYLEYS (SEVER)
