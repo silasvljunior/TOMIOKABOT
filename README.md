@@ -13,8 +13,8 @@ https://f-droid.org/packages/com.termux/
 * apt-get install ffmpeg
 * apt-get install wget
 * apt-get install tesseract
-* pkg install pm2
 * npm i -g pm2 
+* pkg install pm2
 * npm i imgbb-uploader
 * npm i cheerio
 # [PARA RODAR O BOT PELO GIT]
