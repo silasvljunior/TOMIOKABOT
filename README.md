@@ -18,7 +18,7 @@ https://f-droid.org/packages/com.termux/
 * npm i imgbb-uploader
 * npm i cheerio
 # [PARA RODAR O BOT PELO GIT]
-* pkg install git
+* pkg install git 
 * git clone https://github.com/GyuuTomioka/TOMIOKABOT.git
 * cd TOMIOKABOT
 * npm start
