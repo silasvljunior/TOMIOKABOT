@@ -21,6 +21,7 @@ https://f-droid.org/packages/com.termux/
 * pkg install git 
 * git clone https://github.com/GyuuTomioka/TOMIOKABOT.git
 * cd TOMIOKABOT
+* bash install.sh
 * npm start
 # para doar para o criador= +55 (44) 9 9822-0867 [número]
 numero do criador= https://wa.me/5544998220867
