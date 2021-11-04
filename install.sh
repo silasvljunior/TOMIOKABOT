@@ -8,6 +8,7 @@ apt-get install ffmpeg
 apt-get install wget
 apt-get install tesseract
 npm i cheerio
+npm i -g @adiwajshing/baileys
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm install
 
