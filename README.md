@@ -27,4 +27,4 @@ https://f-droid.org/packages/com.termux/
 numero do criador= https://wa.me/5544998220867
 # CRÉDITOS 
 * MHANKARBAR (BASE)
-* BAYLEYS (SEVER)
+* BAYLEYS (SERVER)
